@@ -6,7 +6,7 @@ A machine learning system that classifies customer product reviews as **Positive
 
 ## Background
 
-The initial phase of this project was a **collaborative work done as part of CSE437 – Data Science: Coding with Real World Data**, completed by a team of four. The group trained and evaluated multiple sentiment classification models on a dataset of 40,000 Amazon customer reviews inside a **shared Jupyter notebook**.
+The initial phase of this project was a **collaborative work done as part of CSE437 - Data Science: Coding with Real World Data**, completed by a team of four. The group trained and evaluated multiple sentiment classification models on a dataset of 40,000 Amazon customer reviews inside a **shared Jupyter notebook**.
 
 The models explored in the notebook were:
 - Decision Tree
@@ -14,7 +14,7 @@ The models explored in the notebook were:
 - Support Vector Machine (SVM)
 - AdaBoost
 
-All subsequent work — including the prediction pipeline, Flask REST API, feature engineering improvements, model selection for deployment, and the web integration — was **independently implemented by me**.
+All subsequent work - including the prediction pipeline, Flask REST API, feature engineering improvements, model selection for deployment, and the web integration - was **independently implemented by me**.
 
 ---
 
