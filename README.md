@@ -33,11 +33,12 @@ All subsequent work — including the prediction pipeline, Flask REST API, featu
 
 ## Dataset
 
-- **Source:** Amazon customer product reviews (FastText format)
+- **Source:** Amazon customer product reviews (FastText format) — [Kaggle: Amazon Reviews](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews)
 - **Size:** ~40,000 reviews
 - **Format:** `__label__<1|2> <review text>` per line
 - **Labels:** `1` = Negative, `2` = Positive
-- **Note:** The raw dataset file (`test.ft.txt`) is **not included** in this repo due to its size. Download it separately and place it in this directory before running `train_and_save.py`.
+- **Note:** The raw dataset file (`test.ft.txt`) is **not included** in this repo due to its size. Download it from the link above and place it in this directory before running `train_and_save.py`.
+
 
 ---
 
